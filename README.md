@@ -2,27 +2,27 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Michael+Marroquin...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/michael-marroquin-02a04b1a3/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/m_stivenmarroqu1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
- <code><a href="https://www.hackerrank.com/profile/m_stivenmarroqu1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
   Hi, I'm Micharl Marroquin, Research Assistant & Software Developer from Colombia
   <br>
   <br>
-  🎓 I graduated from the National Learning Service (SENA), in analysis and development of information systems
+  🎓 I graduated from the National Learning Service (SENA), in analysis and development of information systems.
   <br>
   🎓 I graduated from La Merced Technical High School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I'm currently developing the versioning of the AIO web application
+  📚 I'm currently developing the versioning of the AIO web application.
   <br>
   📫 How to reach me: <a href="mailto: m.stivenmarroquin@gmail.com">m.stivenmarroquin@gmail.com</a>
 </p>
@@ -51,6 +51,7 @@
   <code><img title="MONGO DB" height="25" src="images/mongo-svgrepo-com.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
 </p>
 <hr>
 
