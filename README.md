@@ -60,7 +60,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/MichaelMarroquin8/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/Sigmamovil/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MichaelMarroquin8&theme=react&border=61dafb&hide_border=true" alt="MichaelMarroquin8" />
     </a>
     <a href="https://github.com/MichaelMarroquin8/github-readme-stats" title="Go to Source">
