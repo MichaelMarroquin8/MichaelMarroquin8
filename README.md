@@ -8,29 +8,23 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/michael-marroquin-02a04b1a3/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
- <code><a href="https://www.hackerrank.com/profile/m_stivenmarroqu1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+ <code><a href="https://www.hackerrank.com/profile/m_stivenmarroqu1" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Micharl Marroquin, Research Assistant & Software Developer from Colombia
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🎓 I graduated from the National Learning Service (SENA), in analysis and development of information systems.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from La Merced Technical High School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I'm currently developing the versioning of the AIO web application.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: m.stivenmarroquin@gmail.com">m.stivenmarroquin@gmail.com</a>
 </p>
 
 <hr>
